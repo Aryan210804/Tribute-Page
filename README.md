@@ -1,4 +1,5 @@
-# Tribute-PageThe "Build a Tribute Page" project is another challenge in freeCodeCamp's Responsive Web Design certification. It involves creating a tribute page to honor someone or something meaningful to you, like a historical figure, a personal hero, or a cause. This project focuses on using basic HTML and CSS to build a visually appealing and functional page.
+# Tribute-PageThe 
+Build a Tribute Page" project is another challenge in freeCodeCamp's Responsive Web Design certification. It involves creating a tribute page to honor someone or something meaningful to you, like a historical figure, a personal hero, or a cause. This project focuses on using basic HTML and CSS to build a visually appealing and functional page.
 
 Project Requirements:
 Content Structure: The page should have a clear structure, typically consisting of a heading, a brief description, and images or videos related to the person or topic being honored.
